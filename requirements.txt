@@ -1,0 +1,10 @@
+langchain
+langchain-community
+python-dotenv
+langchain_groq
+bs4
+langchain_core
+sentence-transformers
+faiss-cpu
+langchainhub
+tiktoken
